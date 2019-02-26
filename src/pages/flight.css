@@ -1,0 +1,19 @@
+.heading {
+    font-size: 300%;
+}
+
+
+.videoContainer {
+    background-color:#A7A9AC;
+ 
+    padding: 1%;
+  
+  }
+
+.videoPlayer {
+    background-color: lightgray;
+    margin: auto;
+    display: inline-block;
+    width: 540px;
+    height: 260px;
+  }

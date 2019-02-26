@@ -1,0 +1,1 @@
+export const LOAD_FLIGHT_DATA = "LOAD_FLIGHT_DATA";
